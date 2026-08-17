@@ -57,7 +57,7 @@ MLOps-Feast-SkillGap/
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 The Excel workbook contains four sheets:
 
